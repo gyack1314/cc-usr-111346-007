@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "tables": {
+    "documents": {
+      "file": "boundary-documents.jsonl",
+      "sha256": "3d430e6da881c49dfac7cca6a9489a52d7d5dc3b980ad3e31bb0a562056135dc",
+      "bytes": 54,
+      "rows": 1,
+      "fields": [
+        "id",
+        "revision",
+        "file"
+      ]
+    },
+    "text_policy": {
+      "file": "boundary-text_policy.jsonl",
+      "sha256": "26d81a1855d7d7c61552972aba1c8f66c1f70848e036540aef89a87a47f8fa1c",
+      "bytes": 90,
+      "rows": 1,
+      "fields": [
+        "id",
+        "block_separator",
+        "inline_separator",
+        "unknown_node"
+      ]
+    }
+  }
+}

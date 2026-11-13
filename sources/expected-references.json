@@ -1,0 +1,16 @@
+[
+  {
+    "scope": "article",
+    "paragraph": "p1",
+    "targets": [
+      "r1",
+      "r2"
+    ]
+  },
+  {
+    "scope": "child",
+    "targets": [
+      "r1"
+    ]
+  }
+]

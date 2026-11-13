@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "files": [
+    {
+      "path": "sources/article.xml",
+      "bytes": 866,
+      "sha256": "a6e88d79bf3ad48af285727cef992f527f528f5c712143a11de0d7a47c14a9ea"
+    },
+    {
+      "path": "sources/expected-references.json",
+      "bytes": 169,
+      "sha256": "ee23c7a64ab2ec5e954295d68ff6e57fbeda0a05fc8ddefa4c9610c63fc2cde0"
+    }
+  ]
+}

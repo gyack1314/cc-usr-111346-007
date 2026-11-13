@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "tables": {
+    "documents": {
+      "file": "normal-documents.jsonl",
+      "sha256": "3d430e6da881c49dfac7cca6a9489a52d7d5dc3b980ad3e31bb0a562056135dc",
+      "bytes": 54,
+      "rows": 1,
+      "fields": [
+        "id",
+        "revision",
+        "file"
+      ]
+    },
+    "text_policy": {
+      "file": "normal-text_policy.jsonl",
+      "sha256": "f59958a0dd101a54d551a1eb5c35b0a6bb94ada2514d52e0f24c8347ec3ba513",
+      "bytes": 101,
+      "rows": 1,
+      "fields": [
+        "id",
+        "block_separator",
+        "inline_separator",
+        "unknown_node"
+      ]
+    }
+  }
+}
